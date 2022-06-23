@@ -1,4 +1,4 @@
-# import what's needed for the Nucker
+# import what's needed for the Nuker
 import os
 import discord
 from discord.ext import commands
