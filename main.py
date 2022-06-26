@@ -7,7 +7,7 @@ from colorama import Fore
 import asyncio
 import json
 
-print("Nuker Bot".center(63, "-"))
+print("Nuke Bot".center(64, "-"))
 # Get the token
 TOKEN = os.environ['TOKEN']
 
