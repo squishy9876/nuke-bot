@@ -1,5 +1,7 @@
 # nuke-bot
 </> i had spare time
-</> You should star
 
-## I TAKE NO RESPONSIBILITY FOR ACTIONS USING ANY OF THESE TOOLS PROVIDED 
+</> you should star :)
+
+# FOR ACTIONS USING ANY OF THESE TOOLS PROVIDED 
+# I TAKE NO RESPONSIBILITY
